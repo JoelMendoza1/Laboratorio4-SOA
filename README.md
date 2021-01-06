@@ -2,7 +2,7 @@
 
 INTEGRANTES DE GRUPO:
 
-Danny Guañuna
-Gabriela Garcia
-Mendoza Joel
-Pablo Trujillo
+Danny Guañuna,
+Gabriela Garcia,
+Mendoza Joel,
+Pablo Trujillo.
