@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Factura SYSTEM 'AgendaDTD.dtd'>
+
+<agenda>
+    <contacto>
+        <nombre>Joel</nombre>
+        <apellido>Mendoza</apellido>
+        <telefono>0992514455</telefono>
+        <email>wester.mendoza@epn.edu.ec</email>
+        
+        <direccion>
+            <calle>Feliciano Vega</calle>
+            <numero>E3-17</numero>
+            <cp>Verde</cp>
+        </direccion>
+    </contacto>
+</agenda>
